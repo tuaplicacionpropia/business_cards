@@ -6,5 +6,5 @@ Plantilla de tarjeta de visita: http://www.freepik.es/vector-gratis/plantilla-de
 
     .. image:: https://github.com/tuaplicacionpropia/business_cards/raw/master/samples/plantilla-de-tarjeta-de-visita_23-2147515225.jpg
         :alt: Plantilla de tarjeta de visita
-        :width: 100%
+        :height: 200px
         :align: center
