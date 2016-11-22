@@ -1,0 +1,13 @@
+company: {
+  logo: images/logo.png
+  name: Company name
+  slogan: Slogan of the company goes here
+  email1: tuaplicacionpropia@gmail.com
+  phone1: +34 615898493
+  address: c/ Albaricoque 21
+  web: www.tuaplicacionpropia.com
+}
+member: {
+  name: 
+  job: 
+}
